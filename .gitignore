@@ -8,6 +8,9 @@
 notes-privees/
 brouillons/
 
+# Sources volumineuses (PDFs, scans)
+sources/
+
 # Fichiers de traduction sous copyright (si acquisition future)
 # Décommenter si nécessaire :
 # traductions/traduction-recente-*.md
