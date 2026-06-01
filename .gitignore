@@ -1,0 +1,13 @@
+# Fichiers temporaires
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Notes personnelles non publiées
+notes-privees/
+brouillons/
+
+# Fichiers de traduction sous copyright (si acquisition future)
+# Décommenter si nécessaire :
+# traductions/traduction-recente-*.md
