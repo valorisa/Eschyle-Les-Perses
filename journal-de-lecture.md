@@ -44,4 +44,27 @@ Ces trois hypothèses seront testées au fil de la lecture. Si dans six mois ell
 
 ---
 
+## 2026-06-01 (soir) : Ce que les vers 1-20 des *Perses* révèlent sur l'angoisse structurelle
+
+**Contexte** : Découverte d'une version numérique du texte de Mazon (PDF converti en Markdown). Lecture et analyse des 20 premiers vers du prologue.
+
+Les 20 premiers vers des *Perses* ne sont pas une simple exposition. C'est une architecture de l'angoisse en trois mouvements.
+
+D'abord, le mot βαύζει (v. 12) — normalement utilisé pour les chiens qui aboient — animalise le cœur du Chœur. Sous la dignité des "Fidèles" qui gardent les demeures opulentes, il y a une bête qui hurle. Cette animalisation n'est pas un accident de style : elle montre que la prescience tragique n'est pas rationnelle, elle est viscérale. Le cœur *sait* avant que la raison ne comprenne. Eschyle ne protège pas la dignité de ses personnages. Il montre que la civilisation est un vernis, et que dessous, il y a l'instinct de survie qui crie.
+
+Ensuite, le contraste entre la richesse matérielle et l'absence humaine. Les demeures sont "riches en or" (πολυχρύσων, v. 3), mais "toute la force née d'Asie est partie" (v. 11). Cette richesse devient obscène en l'absence d'hommes. Elle ne protège de rien. Pire : elle a financé le désastre. Cette image prépare toute la tragédie : Xerxès avait tout, et il va tout perdre. La richesse donne l'illusion de la puissance, mais masque la fragilité.
+
+Enfin, la tension entre prescience et impuissance structurelle. Le Chœur sait (κακόμαντις, v. 10), mais ne peut rien faire. Non pas parce qu'il raisonne trop, mais parce qu'il est vieux, loin du champ de bataille, et que son rôle de φύλακες (gardiens) l'enferme dans une position où sa lucidité ne sert à rien. Le Fatum ne broie pas seulement ceux qui transgressent (Xerxès). Il enferme aussi ceux qui voient clair dans des rôles où leur clairvoyance est inutile. La sagesse sans pouvoir est condamnée à hurler dans le vide.
+
+**Niveau de confiance** : 🟡 Moyen. J'ai lu attentivement 20 vers sur 1076. L'analyse de βαύζει est solide (c'est un fait philologique vérifiable), mais l'interprétation générale reste provisoire.
+
+**Question ouverte** : Si le Chœur pressent déjà le désastre (v. 10), pourquoi l'arrivée du Messager (v. 249) est-elle nécessaire ? Qu'est-ce que la confirmation officielle change pour des gens qui savaient déjà ?
+
+**Prochaines étapes** :
+- Saisir le texte grec des vers 1-20
+- Continuer la lecture (vers 21-154, fin du prologue)
+- Tester l'hypothèse : est-ce que la tension prescience/impuissance structure toute la pièce, ou seulement le prologue ?
+
+---
+
 *[Les entrées suivantes seront ajoutées au fil de l'avancement]*
