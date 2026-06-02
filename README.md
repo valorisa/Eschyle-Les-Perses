@@ -51,9 +51,9 @@ Le même mot *ζυγόν* (joug) est appliqué d'abord à une terre (transgressi
 ### Structure du dépôt
 
 ```
-README_PROPOSITION.md        # Manifeste : thèse centrale + 4 piliers validés
-METHODE_ANALYSE.md          # Processus dialectique (sparring intellectuel)
-journal-de-lecture.md       # Chronologie des révisions interprétatives
+README_PROPOSITION.md      # Manifeste : thèse centrale + 4 piliers validés
+METHODE_ANALYSE.md         # Processus dialectique (sparring intellectuel)
+journal-de-lecture.md      # Chronologie des révisions interprétatives
 biblio-rodin.md            # Arsenal bibliographique (Vernant, Romilly)
 
 texte-grec/                # Texte source grec (Mazon 1920)
