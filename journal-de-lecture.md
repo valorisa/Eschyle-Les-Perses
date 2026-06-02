@@ -213,4 +213,75 @@ La tragédie se joue dans l'écart vertigineux entre ce que le héros pleure (se
 
 ---
 
+## 2 juin 2026 (après-midi) — Affronter le Catalogue (v. 21-90)
+
+**Constat initial** : Le dépôt est un village Potemkine. La thèse est construite, les macro-analyses sont faites (Parodos, Rêve, Darius, Kommos, Absence d'Atossa). Mais le texte grec s'arrête au v. 20. Le commentaire ligne-à-ligne est vide.
+
+**Décision** : Ne plus sauter les passages "résistants". Affronter le Catalogue (v. 21-89), ce bloc que la plupart des lecteurs survolent comme "du remplissage épique".
+
+### Travail effectué
+
+1. **Extraction du texte grec** (v. 21-90) depuis `sources/eschyletexteta01aescuoft.pdf/` (édition Mazon 1920)
+2. **Ajout dans** `texte-grec/les-perses-grec.md`
+3. **Création de** `commentaire-ligne-a-ligne/01-parodos.md` avec 6 analyses :
+
+#### Analyses réalisées
+
+**1. *βασιλῆς βασιλέως* (v. 23)** — "Roi de Roi"
+- Génitif de dépendance : cascade hiérarchique (pas modèle grec)
+- Les généraux sont des *ὕποχοι* (vassaux, "ceux qui sont en dessous")
+- Obéissance ontologique, pas politique
+- Miroir avec Darius : la structure impériale perse est *déjà* une hybris structurelle
+
+**2. *ψυχῆς εὐτλήμονι δόξη* (v. 28)** — "l'âme qui supporte bien"
+- *Εὐτλήμονι* = capacité à endurer (racine *τλάω*), pas "courage"
+- Contraste avec v. 12 : le Chœur projette sur les absents la qualité qui lui manque
+- Fonction apotropaïque : conjurer l'angoisse en énumérant la force
+
+**3. *ζυγὸν ἀμφιβαλεῖν δούλιον Ἑλλάδι* (v. 49)** — "jeter un joug d'esclave sur la Grèce"
+- Joug appliqué à une *terre* (Ἑλλάδι), pas à un peuple
+- Transgression métaphorique : traiter la terre comme un corps domesticable
+- Préfigure v. 69-70 (joug sur la mer)
+
+**4. La fonction dramaturgique** — Pourquoi réciter cette liste ?
+- Le Chœur est seul dans le palais vide, sans nouvelles
+- Catalogue = rituel apotropaïque raté : plus la liste s'allonge, plus l'absence se creuse
+- Pour le spectateur athénien (472 av. J.-C.) : litanie funéraire anticipée
+
+**5. *ζυγὸν ἀμφιθαλὼν αὐχένι πόντου* (v. 69-70)** — "joug jeté sur le cou de la mer"
+- **Confirmation de l'hypothèse v. 49** : même mot *ζυγόν*, mais appliqué au *πόντος* (mer)
+- La mer reçoit une anatomie corporelle : *αὐχένι* (cou, nuque)
+- Glissement accompli : v. 49 (terre) → v. 69-70 (mer)
+- Le Chœur parle au parfait (*πεπέρακεν*, v. 65) : la faute est déjà commise, mais non reconnue comme telle
+
+**6. Atè et le piège divin (v. 87-90)** — *τὸ πρῶτον Ἀτά παρασαίνει*
+- **Découverte capitale** : Atè séduit *au début* (*τὸ πρῶτον*), pas à la fin
+- *παρασαίνει* = "séduit, caresse" (racine *σαίνω*, remuer la queue)
+- *λευκαῖς πομπαῖσι* = "processions blanches/brillantes" — le catalogue lui-même était une séduction d'Atè
+- **Irréversibilité** : *οὐκ ἔστι θανάσιμον ἄνδρα σωθῆναι πάλιν* (v. 89-90) — "il n'est plus possible à l'homme mortel d'en réchapper"
+- **Connexion directe avec la thèse centrale** : Si Atè agit *avant* la conscience, alors Xerxès ne peut **jamais** comprendre sa faute. Les v. 87-90 sont la preuve textuelle que la pièce n'est **pas** une pédagogie de l'hubris.
+
+### Révisions interprétatives
+
+**Aucune révision majeure**, mais une **validation textuelle massive** :
+- La thèse de l'incommunicabilité structurelle (construite par analyse macro) trouve sa **preuve cosmologique** dans les v. 87-90.
+- Le joug v. 49 → v. 69-70 confirme la transgression progressive, non accidentelle.
+- Le catalogue n'est pas du remplissage : c'est la **séduction d'Atè en temps réel**.
+
+### Niveau de confiance
+
+- 🟢 **Très élevé** pour les v. 87-90 (Atè) : connexion directe et textuelle avec la thèse centrale
+- 🟢 **Élevé** pour le parallèle v. 49 / v. 69-70 (joug terre → mer)
+- 🟡 **Moyen-élevé** pour la fonction apotropaïque du catalogue (dramaturgiquement cohérent, mais pas explicite dans le texte)
+
+### Prochaines étapes
+
+- Analyse des v. 29-43 (Égypte, Lydie) et v. 53-64 (Babylone)
+- Analyse des v. 65-86 (portrait de Xerxès)
+- Vérification croisée avec v. 745-746 (Darius condamne le pont)
+
+**Conclusion** : Le catalogue résiste, mais il parle. Le "remplissage" est un leurre. Chaque vers pèse.
+
+---
+
 *[Les entrées suivantes seront ajoutées au fil de l'avancement]*

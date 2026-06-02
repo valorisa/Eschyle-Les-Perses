@@ -14,3 +14,10 @@ sources/
 # Fichiers de traduction sous copyright (si acquisition future)
 # Décommenter si nécessaire :
 # traductions/traduction-recente-*.md
+
+# Configuration Claude Code
+.claude/
+
+# Scripts et fichiers temporaires
+generate_digest.py
+gitingest.md
