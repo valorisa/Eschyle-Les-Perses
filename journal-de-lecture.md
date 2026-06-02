@@ -284,4 +284,155 @@ La tragédie se joue dans l'écart vertigineux entre ce que le héros pleure (se
 
 ---
 
+## 2 juin 2026 (soir) — Portrait de Xerxès (v. 65-86)
+
+Après avoir affronté le Catalogue (v. 21-90), je me concentre sur le **pivot dramaturgique** : le portrait de Xerxès (v. 65-86), juste après le catalogue des peuples, juste avant l'arrivée d'Atossa.
+
+### Quatre questions traitées
+
+**1. Le portrait de Xerxès : héros ou tyran ?**
+- Vocabulaire ambigu : *θούριος* (impétueux), *πολύχειρ* (aux multiples bras), *πολυναύτας* (aux multiples vaisseaux)
+- Titulature divine : *ἰσόθεος φῶς* (v. 76) — "lumière égale aux dieux" → Pour un public athénien, *ἰσόθεος* est déjà une transgression
+- *χρυσογόνου γενεᾶς* (v. 75-76) — "race née de l'or" → Ambiguïté entre richesse matérielle et pureté divine
+- *δράκων φονίου* (v. 78) — "dragon meurtrier" → Figure ambivalente : pouvoir royal (cobra égyptien) OU créature monstrueuse (Python, Typhon, Hydre)
+- **Pas de vocabulaire héroïque** : Aucune mention de *κλέος*, *τιμή*, *ἀρετή*
+- *ποιμανόριον θεῖον* (v. 72-73) — "divin troupeau" → Ambiguïté vertigineuse : troupeau *du* dieu (génitif subjectif) ou troupeau *qui est* divin ?
+
+**Verdict** : Xerxès est présenté comme **conquérant légitime du point de vue perse**, mais avec un vocabulaire qui résonne comme transgression pour un public grec. Le portrait est **neutre en intention, mais monstrueux en réception**.
+
+**2. Le vocabulaire de la fatalité**
+- **Aucun mot de fatalité classique** : Pas de *μοῖρα*, *δαίμων*, *πότμος*
+- *Θεοῦ πρᾶξιν φερέποντα* (v. 83) — "portant l'action du dieu"
+- *φερέποντα* : participe de *φέρω* (porter) + *ἕπομαι* (suivre) → Xerxès **porte** l'action du dieu, mais ne la crée pas. À la fois actif (il porte) et passif (il suit).
+- Xerxès *ἐλαύνει* (v. 73, "pousse") et *ἐπάγει* (v. 81, "mène contre") → verbes **actifs**
+- Question rhétorique : *τίς ἀνὴρ [...] φεύξεται;* (v. 84-86) — "Quel homme échappera aux trompeurs élans (du dieu) ?"
+- Mot clé : *ἀραιός* (rare, trompeur, fragile) — Les élans du dieu sont **trompeurs**
+
+**Verdict** : Xerxès est **activement libre** (il mène), mais **métaphysiquement piégé** (il porte une action divine dont il ne peut échapper). Ce n'est pas une fatalité *moira* (destin fixé), c'est une **fatalité relationnelle** : Xerxès est pris dans un engrenage cosmologique qu'il ne voit pas.
+
+**3. La mer comme personnage**
+- *αὐχένι πόντου* (v. 70) — "sur le cou de la mer" → La mer a un **cou** (*αὐχήν*). Elle n'est pas un espace neutre, elle est un **corps**.
+- *ζυγὸν ἀμφιθαλὼν αὐχένι πόντου* (v. 69-70) — "joug jeté sur le cou de la mer" → Traiter la mer comme un **animal de trait**
+- **Pas de résistance (encore)** : Le Chœur ne dit pas que la mer résiste. Il dit que Xerxès a *franchi* (*ἀμείψας*, v. 68) le détroit.
+- *λινοδέσμῳ σχεδία* (v. 67) — "radeau aux câbles de lin" → Le lin est une matière végétale, **fragile**
+- **Silence sur la vengeance** : La mer ne se venge pas encore. Mais l'usage de *ζυγόν* et l'anatomisation (*αὐχήν*) préparent le spectateur à comprendre que la mer **peut** se venger.
+
+**Verdict** : La mer est **personnifiée anatomiquement** (elle a un cou), mais pas encore **dramatiquement** (elle ne résiste pas, elle ne se venge pas). Le v. 69-70 prépare la mer comme actant tragique, mais cette activation n'a pas encore lieu. La mer est un **corps violé en attente de réponse**.
+
+**4. La fonction dramaturgique**
+- **Après le catalogue, avant Atossa** : Le portrait de Xerxès vient *après* 70 vers de catalogue. Pourquoi ?
+- Le catalogue a créé une accumulation vertigineuse de puissance. Le portrait de Xerxès est le **point focal** : toute cette force converge vers un seul homme (*ἰσόθεος φῶς*).
+- **Préparer Atossa** : Atossa va demander "Où est mon fils ?". Le spectateur aura déjà en tête cette image monstrueuse (*δράκων*, *πολύχειρ*). Contraste entre la mère inquiète et le dragon-roi.
+- **Expliquer l'absence de nouvelles** : Xerxès a franchi la mer (*πεπέρακεν*, v. 65, **parfait accompli**). Les nouvelles ne peuvent pas revenir parce que Xerxès est **ailleurs**, dans un espace cosmologique que les messagers ne peuvent plus atteindre.
+- **Le pont comme point de non-retour** : Le v. 69-70 marque l'irréversibilité. Une fois le pont franchi, il n'y a plus de retour possible.
+
+**Verdict** : Le portrait fonctionne comme **pivot dramaturgique** entre le catalogue (force diffuse) et l'arrivée d'Atossa (angoisse maternelle). Il explique l'absence totale de nouvelles et prépare le spectateur à comprendre que cette absence est **irréversible**.
+
+### Découvertes majeures
+
+1. **Xerxès n'est pas un héros, ni un tyran** : Il est une **force naturelle** décrite avec un vocabulaire qui résonne comme transgression pour un public grec (*ἰσόθεος*, *δράκων*), mais neutre pour un Chœur perse.
+
+2. **La fatalité n'est pas *moira*** : C'est une **fatalité relationnelle**. Xerxès porte (*φερέποντα*) une action divine qu'il ne contrôle pas, mais qu'il exécute activement. Il est libre et piégé à la fois.
+
+3. **La mer comme corps violé** : L'anatomisation de la mer (*αὐχένι*, "cou") prépare sa vengeance future, mais cette vengeance n'est pas encore activée. La mer attend.
+
+4. **Le parfait *πεπέρακεν* (v. 65)** : "Il a traversé" (accompli irréversible). Le pont marque le **point de non-retour** cosmologique. Xerxès est passé de l'autre côté du monde.
+
+### Niveau de confiance
+
+- 🟢 Très élevé pour l'analyse lexicale (*ἰσόθεος*, *δράκων*, *φερέποντα*, *αὐχένι*)
+- 🟢 Élevé pour la fonction dramaturgique (pivot catalogue → Atossa)
+- 🟡 Moyen-élevé pour la fatalité relationnelle (concept cohérent, mais pas explicite dans le texte)
+
+### Prochaines étapes
+
+- Analyse des v. 29-43 (Égypte, Lydie)
+- Analyse des v. 53-64 (Babylone)
+- Vérification croisée avec v. 745-746 (Darius condamne le pont)
+
+**Conclusion** : Le portrait de Xerxès n'est ni héroïque ni monstrueux. Il est **ambigu**. Et cette ambiguïté est la clé : le Chœur ne comprend pas encore que ce qu'il décrit comme puissance divine est en réalité une transgression cosmologique. Le langage trahit ce que la conscience ignore.
+
+---
+
+## 2 juin 2026 (fin de soirée) — Complétion du Catalogue (v. 29-43, v. 53-64)
+
+Analyse des blocs restants du Catalogue : Égypte (v. 33-40), Lydie (v. 41-43), Babylone (v. 53-58), transition finale (v. 59-64).
+
+### Découvertes majeures
+
+**1. Le Nil comme agent actif (v. 33-34)**
+- *ὁ Νεῖλος ἔπεμψεν* — "le Nil les a envoyés" → Le fleuve est personnifié comme agent, pas simple espace géographique
+- *πολυθρέμμων* — "qui nourrit beaucoup" → Le Nil est un père nourricier qui produit des hommes
+- Hiérarchie cosmologique : Roi > vassaux (Perses) vs Fleuve > hommes (Égyptiens)
+
+**2. Les rameurs amphibies (v. 39)**
+- *ἐλειοβάται ναῶν ἐρέται* — "rameurs habitants des marais"
+- *Ἐλειοβάται* = ceux qui marchent dans les marais → hommes qui vivent **dans l'eau**
+- Préfiguration : des hommes amphibies seront envoyés sur la mer → transgression cosmologique implicite
+
+**3. Les Lydiens "au luxueux régime" (v. 41)**
+- *ἀβροδίαιτος* = ἁβρός (délicat, luxueux, efféminé) + δίαιτα (régime)
+- Connotation négative pour un public athénien : richesse = affaiblissement
+- Contraste Lydiens (luxe) vs Spartiates (austérité)
+- Les Lydiens dominent les peuples du **continent** (*ἠπειρογενής*), mais seront envoyés sur la mer
+
+**4. Babylone et la foule mélangée (v. 53-54)**
+- *πάμμεικτον ὄχλον* — "foule toute-mélangée" → hétérogénéité, absence d'unité
+- *σύρδην* — "pêle-mêle, en désordre"
+- Contraste avec l'organisation perse (généraux, vassaux, hiérarchie)
+
+**5. Les processions du Roi = processions d'Atè (v. 58)**
+- *δειναῖς βασιλέως ὑπὸ πομπαῖς* — "sous les redoutables processions du Roi"
+- **Connexion capitale avec v. 88** : *λευκαῖς πομπαῖσι* — "processions blanches" d'Atè
+- Les processions du Roi (v. 58) = processions d'Atè (v. 88) → Le catalogue entier est une séduction d'Atè
+
+**6. "La fleur des hommes" (v. 59-60)**
+- *ἄνθος ἀνδρῶν οἴχεται* — "la fleur des hommes s'en est allée"
+- Boucle fermée : v. 1 (*οἰχομένων*, "ceux qui sont partis") → v. 60 (*οἴχεται*, "s'en est allée")
+- Métaphore homérique classique, mais réactivée tragiquement
+
+**7. La terre d'Asie gémit (v. 61-62)**
+- *χθὼν Ἀσιῆτις θρέψασα πόθῳ στένεται μαλερῷ* — "la terre d'Asie, nourrice, gémit d'un ardent regret"
+- *Θρέψασα* (participe de *τρέφω*, nourrir) → même racine que le Nil *πολυθρέμμων* (v. 33)
+- La terre est une **mère nourricière** qui gémit **maintenant**, avant même que la défaite soit connue
+- Deuil anticipé : le catalogue se termine par une lamentation funéraire
+
+**8. "Comptant jour par jour" (v. 63-64)**
+- *ἡμερολεγδόν* — adverbe rare : "en comptant les jours" (ἡμέρα + λέγω)
+- *τείνοντα χρόνον* — "le temps qui s'étire" → Le temps ne passe pas, il **s'allonge**
+- Fonction dramaturgique : pont vers Atossa (qui attend aussi, qui compte aussi)
+
+### Révisions interprétatives
+
+**Confirmation** : Le catalogue (v. 21-64) n'est pas un remplissage épique. C'est une **séduction d'Atè en temps réel**.
+
+Les "processions blanches" d'Atè (v. 88) ne sont pas une abstraction théologique. Ce sont **littéralement** les processions du Roi (v. 58) que le Chœur vient de décrire pendant 70 vers. Le catalogue lui-même est l'instrument de la faute.
+
+**Structure du piège** :
+1. Le Chœur énumère la puissance (v. 21-64)
+2. Cette énumération est déjà une séduction (processions du Roi = processions d'Atè)
+3. Le Chœur ne sait pas qu'il est en train de décrire le piège dans lequel Xerxès est tombé
+4. La terre d'Asie gémit (v. 61-62) avant même que la nouvelle de la défaite arrive
+
+### Niveau de confiance
+
+- 🟢 Très élevé pour le parallèle v. 58 / v. 88 (*πομπαί*) — textuel et capital
+- 🟢 Élevé pour la personnification du Nil et la terre nourricière
+- 🟢 Élevé pour le deuil anticipé (v. 61-62, *στένεται*)
+- 🟡 Moyen-élevé pour la transgression cosmologique des amphibies (*ἐλειοβάται*)
+
+### Bilan du Catalogue complet (v. 21-90)
+
+**Travail terminé** :
+- ✅ v. 21-28 : Généraux perses
+- ✅ v. 29-43 : Égypte et Lydie
+- ✅ v. 44-52 : Sardes et le joug sur la Grèce
+- ✅ v. 53-64 : Babylone et fin du catalogue
+- ✅ v. 65-86 : Portrait de Xerxès
+- ✅ v. 87-90 : Atè et le piège divin
+
+Le Catalogue est maintenant **entièrement analysé**. Reste à vérifier v. 745-746 (Darius condamne le pont) pour confirmer les hypothèses.
+
+---
+
 *[Les entrées suivantes seront ajoutées au fil de l'avancement]*

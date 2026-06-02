@@ -199,15 +199,302 @@ Le Chœur vient de dire que toute la force de l'Asie est partie (v. 20). Au lieu
 
 ---
 
+## Les peuples de l'Asie Mineure (v. 29-43)
+
+### Texte grec et traduction (v. 33-43)
+
+**v. 33-40 : L'Égypte**
+```
+33   Ἄλλους δ' ὁ μέγας καὶ πολυθρέμμων
+34   Νεῖλος ἔπεμψεν· Σουσισκάνης,
+35   Πηγασταγών Αἰγυπτογενής,
+36   ὅ τε τῆς ἱερᾶς Μέμφιδος ἄρχων
+37   μέγας Ἀρσάμης, τάς τ' ἀγυγίους
+38   Θήβας ἔφετων Ἀριόμαρδος,
+39   καὶ ἐλειοβάται ναῶν ἐρέται
+40   δεινοί πλῆθός τ' ἀνάριθμοι·
+```
+
+**Traduction (Mazon)** :
+> D'autres, c'est le grand Nil, le nourricier de foules, qui les a envoyés : Sousiscanès, Pégastagôn, né d'Égypte, le grand Arsamès, chef de la sainte Memphis, Ariomardos, gouverneur de l'antique Thèbes, et les rameurs de navires, habitants des marais, redoutables et en foule innombrable.
+
+**v. 41-43 : La Lydie**
+```
+41   ἀβροδιαίτων δ' ἔπεται Λυδῶν
+42   ὄχλος, οἵτ' ἐπίπαν ἠπειρογενὲς
+43   κατέχουσιν ἔθνος, τοὺς Μητρογάθης
+```
+
+**Traduction (Mazon)** :
+> Puis vient la foule des Lydiens au luxueux régime, qui dominent toute la race née du continent...
+
+---
+
+### Analyse
+
+#### 1. Le Nil comme agent — *ὁ Νεῖλος ἔπεμψεν* (v. 33-34)
+
+- **Personnification géographique** : Le Chœur ne dit pas "les Égyptiens sont partis", mais "le Nil les a envoyés" (*ὁ Νεῖλος ἔπεμψεν*). Le fleuve est un **agent actif**.
+
+- **Le Nil nourricier** : *πολυθρέμμων* (v. 33) = "qui nourrit beaucoup" (racine *τρέφω*, nourrir). Le Nil n'est pas seulement un fleuve, c'est un **père nourricier** qui produit des hommes.
+
+- **Contraste avec les généraux** : Les généraux perses (v. 21-28) sont des *ὕποχοι* (vassaux, "ceux qui sont en dessous") du Roi. Les Égyptiens sont envoyés par le Nil. Leur obéissance n'est pas au Roi, mais au **fleuve**. Hiérarchie cosmologique : Roi > vassaux vs Fleuve > hommes.
+
+- **Memphis et Thèbes sacrées** : *ἱερᾶς Μέμφιδος* (v. 36), *ἀγυγίους Θήβας* (v. 37-38). Les deux villes égyptiennes sont qualifiées de "saintes" (*ἱερᾶς*) et "antiques" (*ἀγυγίους*). L'Égypte n'est pas une simple province perse, c'est un **espace sacré** avec une temporalité propre (l'antique).
+
+- **Les rameurs des marais** : *ἐλειοβάται ναῶν ἐρέται* (v. 39) = "rameurs de navires, habitants des marais". *Ἐλειοβάται* = ἕλειος (marais) + βάτης (celui qui marche). Ce sont des hommes qui vivent **dans l'eau**. Ils ne sont pas terriens comme les cavaliers perses (v. 26, *ἱπποβάται*), ils sont **amphibies**. Préfiguration : ces hommes qui vivent dans l'eau seront envoyés sur la mer. Transgression cosmologique implicite.
+
+**Niveau de confiance** : 🟢 (haute) — L'analyse de *πολυθρέμμων* et *ἐλειοβάται* est solide. La personnification du Nil comme agent actif est textuelle.
+
+---
+
+#### 2. Les Lydiens au "luxueux régime" — *ἀβροδιαίτων Λυδῶν* (v. 41)
+
+- **ἀβροδίαιτος** : Composé de ἁβρός (délicat, luxueux, efféminé) + δίαιτα (régime, mode de vie). Littéralement : "au régime délicat". Mazon traduit par "luxueux régime".
+
+- **Connotation négative en grec** : Pour un public athénien, *ἁβρός* a une connotation d'**efféminement** (par opposition à la virilité hoplitique). Les Lydiens sont riches (*πολύχρυσοι Σάρδεις*, v. 45), mais leur richesse les **affaiblit**. Contraste avec les Spartiates (régime austère, *ἀγωγή*).
+
+- **Les Lydiens "dominent toute la race née du continent"** : *οἵτ' ἐπίπαν ἠπειρογενὲς κατέχουσιν ἔθνος* (v. 42-43). *Ἠπειρογενής* = ἤπειρος (continent) + γενής (né). Les Lydiens dominent les peuples **nés du continent**, c'est-à-dire les peuples de l'intérieur des terres (Phrygie, Cappadoce). Mais cette domination continentale prépare une transgression : ils seront envoyés sur la mer.
+
+- **Sardes "aux mines d'or"** : *πολύχρυσοι Σάρδεις* (v. 45). Même adjectif que pour le Chœur (v. 3, *πολύχρυσων*) et l'armée (v. 9, *πολυχρύσου*). L'or est partout. Mais l'or, dans la cosmologie grecque, est une matière **inerte**, **stérile**. L'or ne nourrit pas (contrairement au blé). L'accumulation d'or est un signe de richesse mortifère.
+
+**Niveau de confiance** : 🟡 (moyenne-haute) — L'analyse de *ἀβροδίαιτος* est solide. Le contraste continent/mer est une hypothèse cohérente, mais pas explicite dans le texte.
+
+---
+
+## Babylone et la fin du catalogue (v. 53-64)
+
+### Texte grec et traduction
+
+**v. 53-58 : Babylone**
+```
+53   ἡ πολύχρυσος πάμμεικτον ὄχλον
+54   πέμπει σύρδην, ναῶν τ' ἐπόχους
+55   καὶ τοξουλκῷ λήματι πιστούς·
+56   τὸ μαχαιροφόρον τ' ἔθνος ἐκ πάσης
+57   Ἀσίας ἔπεται
+58   δειναῖς βασιλέως ὑπὸ πομπαῖς.
+```
+
+**Traduction (Mazon)** :
+> Babylone aux mines d'or envoie une foule de toutes races, pêle-mêle, cavaliers de vaisseaux et hommes confiants dans la force de l'arc qui tire ; et la nation porte-glaive de toute l'Asie suit sous les redoutables processions du Roi.
+
+**v. 59-64 : Transition finale**
+```
+59   Τοιόνδ' ἄνθος Περσίδος αἴας
+60   οἴχεται ἀνδρῶν, οὓς πέρι πᾶσα
+61   χθὼν Ἀσιῆτις θρέψασα πόθῳ
+62   στένεται μαλερῷ, τοκέες τ' ἄλοχοί θ'
+63   ἡμερολεγδὸν
+64   τείνοντα χρόνον τρομέονται.
+```
+
+**Traduction (Mazon)** :
+> Telle est la fleur des hommes de la terre perse qui s'en est allée, et pour qui toute la terre d'Asie, leur nourrice, gémit d'un ardent regret ; parents et épouses, comptant jour par jour le temps qui s'allonge, frémissent.
+
+---
+
+### Analyse
+
+#### 1. Babylone et la "foule de toutes races" — *πάμμεικτον ὄχλον* (v. 53)
+
+- **πάμμεικτον** : Composé de πᾶν (tout) + μεικτός (mélangé). Littéralement : "tout-mélangé". Babylone envoie une foule **hétérogène**, pas une armée homogène.
+
+- **Contraste avec les Perses** : Les généraux perses (v. 21-28) sont *ταγοί Περσάν* (généraux des Perses), une ethnie identifiée. Babylone envoie un *ὄχλος* (foule, masse indistincte) *πάμμεικτον* (toute mélangée). Babylone = diversité cosmopolite, mais aussi **absence d'unité**.
+
+- **σύρδην** (v. 54) : "pêle-mêle, en désordre". Adverbe rare. Babylone envoie sa foule "en vrac". Pas d'ordre, pas de discipline. Contraste avec l'organisation perse (généraux, vassaux, hiérarchie).
+
+- **"Cavaliers de vaisseaux"** : *ναῶν ἐπόχους* (v. 54). Même expression qu'au v. 45 (Sardes). Des hommes montés **sur des vaisseaux**. Encore une fois, des peuples terrestres (Babylone est une ville continentale, sur l'Euphrate) sont envoyés **sur la mer**. Transgression cosmologique répétée.
+
+**Niveau de confiance** : 🟢 (haute) — L'analyse de *πάμμεικτον* et *σύρδην* est solide. Le contraste ordre perse / désordre babylonien est textuel.
+
+---
+
+#### 2. "Sous les redoutables processions du Roi" — *δειναῖς βασιλέως ὑπὸ πομπαῖς* (v. 58)
+
+- **πομπαί** : Processions, cortèges. Même mot qu'au v. 88 (*λευκαῖς πομπαῖσι*, "processions blanches" d'Atè). Les processions du Roi sont qualifiées de *δειναῖς* (redoutables, terribles).
+
+- **Connexion avec Atè (v. 88)** : Les "processions blanches" d'Atè (v. 88) séduisent l'homme. Les "processions redoutables" du Roi (v. 58) mènent l'armée. Les deux *pompai* se superposent : le catalogue entier (v. 21-64) est une **procession d'Atè**, mais le Chœur ne le sait pas encore.
+
+- **ὑπὸ πομπαῖς** : "sous les processions". Préposition *ὑπό* (sous) + datif. Les peuples suivent **sous** les processions, pas **dans** les processions. Ils sont en position de soumission, pas de participation. Les processions passent au-dessus d'eux.
+
+**Niveau de confiance** : 🟢 (très haute) — Le parallèle v. 58 / v. 88 (*πομπαί*) est textuel et capital. Les processions du Roi = processions d'Atè.
+
+---
+
+#### 3. "La fleur des hommes" — *ἄνθος ἀνδρῶν* (v. 59)
+
+- **ἄνθος** : Fleur, floraison, ce qui est au sommet de sa beauté. Métaphore homérique classique (*Iliade*, VI, 146 : "les générations d'hommes sont comme les feuilles").
+
+- **"s'en est allée"** : *οἴχεται* (v. 60). Parfait de *οἴχομαι* (partir, s'en aller). Même verbe qu'au v. 1 (*οἰχομένων*). Le catalogue a commencé par "ceux qui sont partis" (v. 1), il se termine par "la fleur s'en est allée" (v. 59-60). Boucle fermée.
+
+- **"toute la terre d'Asie, leur nourrice"** : *χθὼν Ἀσιῆτις θρέψασα* (v. 61). *Θρέψασα* : participe aoriste de *τρέφω* (nourrir). Même racine que *πολυθρέμμων* (v. 33, le Nil nourricier). La terre d'Asie est une **mère nourricière** qui a élevé ces hommes, et qui maintenant *στένεται* (v. 62, gémit) pour eux.
+
+- **"gémit d'un ardent regret"** : *πόθῳ στένεται μαλερῷ* (v. 61-62). *Πόθος* = désir, regret, manque. *Μαλερός* = ardent, violent (racine *μάλα*, très). La terre d'Asie gémit **maintenant**, avant même que la défaite soit connue. Le catalogue se termine par un deuil anticipé.
+
+**Niveau de confiance** : 🟢 (très haute) — La métaphore *ἄνθος* est classique. La boucle v. 1 / v. 59-60 (*οἴχομαι*) est textuelle. Le deuil anticipé (*στένεται*) confirme que le catalogue est une litanie funéraire.
+
+---
+
+#### 4. "Comptant jour par jour" — *ἡμερολεγδόν* (v. 63)
+
+- **ἡμερολεγδόν** : Adverbe rare. Composé de ἡμέρα (jour) + λέγω (compter, dire). Littéralement : "en comptant les jours". Les parents et épouses comptent chaque jour qui passe.
+
+- **"le temps qui s'allonge"** : *τείνοντα χρόνον* (v. 64). *Τείνω* = tendre, étirer. Le temps n'avance pas, il **s'étire**. Les jours ne passent pas, ils **s'allongent**. Le catalogue se termine sur une image d'attente insupportable.
+
+- **Fonction dramaturgique** : Cette image (v. 63-64) prépare l'entrée d'Atossa. Elle aussi attend, elle aussi compte les jours. Le v. 63-64 est un pont entre le catalogue (absence collective) et Atossa (absence maternelle).
+
+**Niveau de confiance** : 🟢 (haute) — L'analyse de *ἡμερολεγδόν* et *τείνοντα χρόνον* est solide. La fonction de pont vers Atossa est cohérente.
+
+---
+
+## Le portrait de Xerxès (v. 65-86)
+
+### Texte grec et traduction
+
+**v. 65-76** : Le passage de l'Hellespont
+```
+65   Πεπέρακεν μὲν ὁ περσέπτολις ἤδη
+66   βασίλειος στρατὸς εἰς ἀντίπορον γεί-
+67   τονα χώραν, λινοδέσμῳ σχεδία πορθ-
+68   μὸν ἀμείψας Ἀθαμαντίδος Ἕλλας,
+69   πολύγομφον ὅδισμα ζυγὸν ἀμ-
+70   φιθαλὼν αὐχένι πόντου·
+71   πολυάνδρου δ' Ἀσίας θούριος ἄρχων
+72   ἐπὶ πᾶσαν χθόνα ποιμανόριον θεῖ-
+73   ον ἐλαύνει διχόθεν, πεζονόμοις ἐκ
+74   τε θαλάσσας ὄχυροῖσι πεποιθὼς
+75   στυφελοῖς ἐφέταις, χρυσογόνου
+76   γενεᾶς ἰσόθεος φῶς·
+```
+
+**Traduction (Mazon)** :
+> Elle a traversé déjà, l'armée royale qui détruit les cités, vers la terre voisine d'en face, en franchissant le détroit d'Hellé, fille d'Athamas, sur un radeau aux câbles de lin, en jetant un pont aux multiples chevilles, joug sur le cou de la mer. L'impétueux chef de l'Asie aux peuples nombreux pousse sur toute la terre le divin troupeau du dieu, dans deux directions, confiant dans ses rudes capitaines de la terre et de la mer — lui, lumière égale aux dieux, de la race née de l'or.
+
+**v. 77-86** : Le portrait de Xerxès
+```
+77   κυάνεον δ' ὄμμασι λεύσσων
+78   φονίου δέργμα δράκοντος,
+79   πολύχειρ καὶ πολυναύτας,
+80   Σύριόν θ' ἄρμα διώκων,
+81   ἐπάγει δουρικλύτοις ἀν-
+82   δράσι τόξον ἐπίχειρον Ἄρη.
+83   Θεοῦ δὲ πρᾶξιν φερέποντα
+84   τίς ἀνὴρ τοσόνδε βροτ῾ν
+85   ἀραιὸν πηδήματι θοῷ
+86   φεύξεται; ἐπεὶ φιλόφρων
+```
+
+**Traduction (Mazon)** :
+> Les yeux lançant le regard sombre d'un dragon meurtrier, avec sa multitude de bras, sa multitude de vaisseaux, conduisant son char de Syrie, il mène contre des guerriers fameux à la lance l'Arès habile à l'arc. Qui donc, parmi les mortels, échappera, si robuste soit-il, aux trompeurs élans du dieu ? Car, amicale d'abord...
+
+---
+
+### Analyse des 4 questions
+
+#### 1. Le portrait de Xerxès : héros ou tyran ?
+
+**Question** : Comment le Chœur décrit-il Xerxès dans ces versets ? Utilise-t-il un vocabulaire héroïque (ἀρετή, κλέος) ou un vocabulaire de la démesure (ὕβρις, θράσος) ? Est-ce que Xerxès est présenté comme un conquérant légitime ou comme un transgresseur ?
+
+**Réponse** :
+
+- **Vocabulaire ambigu** : Le Chœur ne dit ni *ὕβρις* ni *ἀρετή*. Il utilise un vocabulaire de **puissance neutre** : *θούριος* (impétueux, v. 71), *πολύχειρ* (aux multiples bras, v. 79), *πολυναύτας* (aux multiples vaisseaux, v. 79).
+
+- **Titulature divine** : Xerxès est appelé *ἰσόθεος φῶς* (v. 76) — "lumière égale aux dieux". Ce n'est pas une métaphore, c'est une **titulature royale perse** (le Roi comme incarnation de la lumière d'Ahura Mazda). Mais traduite en grec, elle sonne comme une revendication d'égalité avec les dieux olympiens. Pour un public athénien, *ἰσόθεος* est déjà une transgression.
+
+- **"Race née de l'or"** : *χρυσογόνου γενεᾶς* (v. 75-76). Xerxès descend d'une lignée divine (mythe perse des Achéménides descendant du dieu-soleil). Mais encore une fois, en grec, *χρυσογόνου* ("né de l'or") évoque autant la richesse matérielle que la pureté divine. Ambiguïté délibérée.
+
+- **Le dragon meurtrier** : *κυάνεον ὄμμασι λεύσσων φονίου δέργμα δράκοντος* (v. 77-78) — "les yeux lançant le regard sombre d'un dragon meurtrier". Le *δράκων* (dragon/serpent) est une figure ambivalente : symbole de pouvoir royal (serpent cobra sur la couronne égyptienne) ET créature monstrueuse. Pour un public grec, le serpent évoque Python (tué par Apollon), Typhon, l'hydre de Lerne — des forces chaotiques que les dieux ont dû soumettre.
+
+- **Pas de vocabulaire héroïque** : Aucune mention de *κλέος* (gloire), *τιμή* (honneur), *ἀρετή* (vertu/excellence). Xerxès n'est pas décrit comme un *ἥρως* (héros) au sens homérique. Il est décrit comme une **force naturelle** : impétueux (*θούριος*), multiple (*πολύχειρ*, *πολυναύτας*), irrésistible.
+
+- **Le berger divin** : *ποιμανόριον θεῖον ἐλαύνει* (v. 72-73) — "il pousse le divin troupeau". Xerxès est un *berger* (*ποιμήν*) qui mène un troupeau (*ποιμανόριον*). Mais ce troupeau est qualifié de *θεῖον* (divin). Est-ce le troupeau du dieu (génitif subjectif) ou le troupeau *qui est* divin (attribut) ? L'ambiguïté est vertigineuse. Si Xerxès mène un troupeau divin, il est un berger légitime. Mais si le troupeau *appartient* au dieu, alors Xerxès est en train de voler le bétail sacré.
+
+**Verdict** : Xerxès est présenté comme un **conquérant légitime du point de vue perse**, mais avec un vocabulaire qui résonne comme une transgression pour un public grec. Le Chœur ne condamne pas Xerxès, mais il accumule des signaux d'alarme (ἰσόθεος, δράκων, joug sur la mer). Le portrait est **neutre en intention, mais monstrueux en réception**.
+
+**Niveau de confiance** : 🟢 (haute) — L'analyse lexicale est solide. L'ambiguïté du vocabulaire (θεῖον, ἰσόθεος, δράκων) est textuelle, pas spéculative.
+
+---
+
+#### 2. Le vocabulaire de la fatalité
+
+**Question** : Quels mots le Chœur utilise-t-il pour décrire le destin de Xerxès ? Parle-t-il de μοῖρα (destin), de δαίμων (force divine), de πότμος (sort) ? Est-ce que Xerxès est présenté comme actif (il décide) ou comme passif (il est poussé) ?
+
+**Réponse** :
+
+- **Aucun mot de fatalité classique** : Le Chœur ne dit ni *μοῖρα*, ni *δαίμων*, ni *πότμος*. Il utilise *Θεοῦ πρᾶξιν φερέποντα* (v. 83) — "portant l'action du dieu".
+
+- **φερέποντα** : Participe présent de *φέρω* (porter) + *ἕπομαι* (suivre). Littéralement : "suivant en portant". Xerxès **porte** l'action du dieu, mais il ne la *crée* pas. Il est à la fois actif (il porte) et passif (il suit).
+
+- **Θεοῦ πρᾶξιν** : "l'action du dieu". Quelle action ? Quelle divinité ? Le texte ne précise pas. Est-ce Ahura Mazda (dieu perse) ? Est-ce un dieu grec (Zeus, Poséidon) ? Ou est-ce *Atè* (déesse de la Faute, mentionnée au v. 87-90) ? L'ambiguïté est totale.
+
+- **Xerxès comme agent** : Le Chœur dit que Xerxès *ἐλαύνει* (v. 73, "pousse, mène") et *ἐπάγει* (v. 81, "mène contre"). Ces verbes sont **actifs**. Xerxès n'est pas poussé par une force extérieure, il est celui qui pousse.
+
+- **Mais l'action est divine** : Le verbe *φερέποντα* (v. 83) introduit une ambiguïté : Xerxès mène l'armée, mais il "porte l'action du dieu". Est-il libre ou instrumentalisé ? Le texte ne tranche pas.
+
+- **Question rhétorique fatale** : *τίς ἀνὴρ τοσόνδε βροτῶν ἀραιὸν πηδήματι θοῷ φεύξεται;* (v. 84-86) — "Quel homme, parmi les mortels, échappera aux trompeurs élans (du dieu) ?" Le mot clé est *ἀραιός* (rare, clairsemé, trompeur, fragile). Les "élans du dieu" sont *trompeurs*. Xerxès ne peut pas échapper. Mais échapper à quoi ? À l'action qu'il porte lui-même.
+
+**Verdict** : Xerxès est présenté comme **activement libre** (il mène, il pousse), mais **métaphysiquement piégé** (il porte une action divine dont il ne peut échapper). Ce n'est pas une fatalité *moira* (destin fixé), c'est une **fatalité relationnelle** : Xerxès est pris dans un engrenage cosmologique qu'il ne voit pas.
+
+**Niveau de confiance** : 🟡 (moyenne-haute) — L'analyse de *φερέποντα* et *ἀραιός* est solide. Mais l'absence de vocabulaire de fatalité classique (μοῖρα, πότμος) rend l'interprétation plus ouverte.
+
+---
+
+#### 3. La mer comme personnage
+
+**Question** : Comment la mer est-elle décrite dans ces versets ? Est-elle un obstacle neutre, ou est-elle personnifiée (comme une entité qui résiste, qui se venge) ? Relie ça à l'analyse du v. 69-70 (joug sur la mer).
+
+**Réponse** :
+
+- **Anatomie de la mer** : *αὐχένι πόντου* (v. 70) — "sur le cou de la mer". La mer a un *αὐχήν* (cou, nuque). Elle n'est pas un espace neutre, elle est un **corps**.
+
+- **Le joug** : *ζυγὸν ἀμφιθαλὼν αὐχένι πόντου* (v. 69-70) — "joug jeté sur le cou de la mer". Le joug est un instrument de domestication animale. Mettre un joug sur la mer, c'est traiter la mer comme un **animal de trait**.
+
+- **Pas de résistance (encore)** : Le Chœur ne dit pas que la mer résiste. Il dit simplement que Xerxès a *franchi* (*ἀμείψας*, v. 68) le détroit. Le verbe *ἀμείβω* signifie "échanger, franchir, traverser". Il n'y a pas de violence (du côté de la mer) dans ce verbe.
+
+- **Le pont comme "radeau aux câbles de lin"** : *λινοδέσμῳ σχεδία* (v. 67) — "radeau lié par des câbles de lin". Le lin (*λίνον*) est une matière végétale, fragile. Le pont n'est pas en pierre, il est en **matière organique**. Cette fragilité sera exploitée plus tard (quand la mer détruira le pont lors de la tempête, après la défaite).
+
+- **Silence sur la vengeance** : La mer ne se venge pas (encore) dans ce passage. Mais l'usage du mot *ζυγόν* (joug) et l'anatomisation de la mer (*αὐχήν*) préparent le spectateur à comprendre que la mer **peut** se venger, qu'elle **a** un corps, qu'elle **n'est pas** un espace neutre.
+
+- **Contraste avec v. 745-746 (Darius)** : Plus tard, Darius dira que Xerxès a voulu "enchaîner l'Hellespont" (*δεσμεύειν πορθμόν*) et que c'était une *ἄνοια* (folie). Mais ici, au v. 69-70, le Chœur ne condamne pas. Il décrit.
+
+**Verdict** : La mer est **personnifiée anatomiquement** (elle a un cou), mais pas encore **dramatiquement** (elle ne résiste pas, elle ne se venge pas). Le v. 69-70 prépare la mer comme actant tragique, mais cette activation n'a pas encore lieu. La mer est un **corps violé en attente de réponse**.
+
+**Niveau de confiance** : 🟢 (haute) — L'anatomisation de la mer (*αὐχένι*) est textuelle. Le contraste avec Darius (v. 745-746) reste à vérifier, mais l'hypothèse est forte.
+
+---
+
+#### 4. La fonction dramaturgique de ce portrait
+
+**Question** : Pourquoi le Chœur fait-il ce portrait de Xerxès MAINTENANT, après le catalogue des peuples ? Est-ce pour expliquer pourquoi l'armée est partie ? Ou est-ce pour préparer l'arrivée d'Atossa (qui va demander des nouvelles de son fils) ?
+
+**Réponse** :
+
+- **Après le catalogue, avant Atossa** : Le Chœur vient d'énumérer 70 vers de peuples, de généraux, de chars. Il a nommé les forces. Maintenant, il nomme **celui qui les mène**. Le portrait de Xerxès vient *après* le catalogue, pas avant. Pourquoi ?
+
+- **Le catalogue préparait le portrait** : Le catalogue a créé une accumulation vertigineuse de puissance (or, archers, cavaliers, Babylone, Lydie, Égypte). Le portrait de Xerxès est le **point focal** de cette puissance. Toute cette force converge vers un seul homme : *ἰσόθεος φῶς* (lumière égale aux dieux).
+
+- **Préparer Atossa** : Atossa va entrer juste après (v. 155+). Elle va demander des nouvelles de son fils. Le Chœur vient de peindre Xerxès comme une force surhumaine (*ἰσόθεος*, *δράκων*, *πολύχειρ*). Quand Atossa demandera "Où est mon fils ?", le spectateur aura déjà en tête cette image monstrueuse. Le contraste entre la mère inquiète et le dragon-roi sera vertigineux.
+
+- **Expliquer l'absence de nouvelles** : Le Chœur a dit (v. 13-15) qu'aucun messager n'est revenu. Pourquoi ? Parce que Xerxès est trop loin, trop puissant, trop rapide. Le portrait des v. 65-86 explique pourquoi l'absence est si totale : Xerxès a franchi la mer (*πεπέρακεν*, v. 65, parfait accompli), il a traversé l'impossible. Les nouvelles ne peuvent pas revenir parce que Xerxès est **ailleurs**, dans un espace cosmologique que les messagers ne peuvent plus atteindre.
+
+- **Le pont comme point de non-retour** : Le v. 69-70 (joug sur la mer) marque le **point de non-retour**. Une fois le pont franchi, il n'y a plus de retour possible. Xerxès est passé de l'autre côté du monde. Le portrait dramatise cette irréversibilité.
+
+**Verdict** : Le portrait de Xerxès (v. 65-86) fonctionne comme **pivot dramaturgique** entre le catalogue (force diffuse) et l'arrivée d'Atossa (angoisse maternelle). Il explique l'absence totale de nouvelles (Xerxès a franchi la mer, il est trop loin) et prépare le spectateur à comprendre que cette absence est **irréversible**.
+
+**Niveau de confiance** : 🟢 (haute) — L'analyse structurelle (catalogue → portrait → Atossa) est cohérente. L'usage du parfait *πεπέρακεν* (v. 65) confirme l'irréversibilité.
+
+---
+
 ## Prochaines étapes
 
 - ✅ Analyse des v. 21-28 (Généraux) — *βασιλῆς βασιλέως*, *εὐτλήμονι*
+- ✅ Analyse des v. 29-43 (Égypte, Lydie) — Nil nourricier, *ἀβροδίαιτος*, *ἐλειοβάται*
 - ✅ Analyse des v. 44-52 (Sardes et le joug sur la Grèce)
+- ✅ Analyse des v. 53-64 (Babylone, fin du catalogue) — *πάμμεικτον*, *πομπαί*, *ἄνθος ἀνδρῶν*
+- ✅ Analyse des v. 65-86 (Portrait de Xerxès) — *ἰσόθεος φῶς*, *δράκων*, *φερέποντα*
 - ✅ Vérification des v. 69-70 (joug sur la mer) — hypothèse confirmée
 - ✅ Analyse des v. 87-90 (Atè et le piège divin) — connexion avec thèse centrale
-- ⏳ Analyse des v. 29-43 (Peuples de l'Asie Mineure : Égypte, Lydie)
-- ⏳ Analyse des v. 53-64 (Babylone, fin du catalogue)
-- ⏳ Analyse des v. 65-86 (Le passage de l'Hellespont, portrait de Xerxès)
 - ⏳ Vérification croisée avec v. 745-746 (Darius condamne le pont)
 
 ---
