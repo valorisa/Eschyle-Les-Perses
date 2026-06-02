@@ -2,35 +2,39 @@
 
 ## Projet
 
-Ce dépôt documente un parcours d'étude d'un an sur *Les Perses* d'Eschyle, la plus ancienne tragédie historique qui nous soit parvenue.
+Ce dépôt documente une recherche philologique sur *Les Perses* d'Eschyle, la plus ancienne tragédie historique conservée.
+
+**Thèse centrale** : *Les Perses* n'est pas une pédagogie de l'Hubris. **C'est la démonstration qu'une victime d'une faute cosmique est structurellement incapable d'en comprendre la nature, même après avoir tout perdu.** Xerxès ne comprend jamais. Le savoir (Darius/Atossa) et l'expérience (Xerxès) ne se rencontrent jamais.
+
+📖 **Voir [README_PROPOSITION.md](README_PROPOSITION.md)** — Manifeste complet avec les 4 piliers de l'analyse
+
+🛠️ **Voir [METHODE_ANALYSE.md](METHODE_ANALYSE.md)** — Méthode dialectique questions/réponses qui a construit cette thèse
 
 ### Objectifs
 
-1. **Apprendre le grec ancien** à travers cette œuvre monumentale
-2. **Produire un commentaire ligne à ligne** de la pièce
-3. **Comparer plusieurs traductions** (Mazon 1920, Leconte de Lisle 1872, traductions contemporaines)
-4. **Explorer trois hypothèses interprétatives** : lectures politique, religieuse et psychanalytique
-5. **Documenter le processus d'apprentissage** de façon publique et contributible
+1. Analyse textuelle du grec (édition Mazon 1920)
+2. Commentaire philologique progressif
+3. Hiérarchie des grilles de lecture : Théologique > Politique > Psychanalytique
+4. Documentation du processus (Option A : tracer les hésitations, pas réécrire rétrospectivement)
 
 ### Pourquoi GitHub ?
 
-GitHub est habituellement utilisé pour du code logiciel. Ici, il sert un texte vieux de 2500 ans. Cette tension est assumée :
-
-- **Versionnage** : Les hypothèses interprétatives évoluent. Les branches permettent d'explorer plusieurs lectures en parallèle.
-- **Comparaison de traductions** : Chaque traduction est un fichier séparé, versionné indépendamment.
-- **Collaboration potentielle** : Les Issues servent de lieu de débat sur des passages controversés.
-- **Transparence du processus** : Le journal de lecture documente les erreurs, les révisions, les blocages.
+- **Versionnage** : Les hypothèses évoluent, sont testées, révisées
+- **Transparence** : Le journal documente impasses, révisions, blocages
+- **Rigueur** : Chaque affirmation est vérifiable (numéro de vers, citation grecque)
 
 ### Structure du dépôt
 
 ```
-texte-grec/              # Texte source en grec ancien
-traductions/             # Traductions françaises comparées
-commentaire-ligne-a-ligne/   # Commentaire progressif par section
-hypotheses-interpretation/   # Trois branches d'interprétation
-notes-linguistiques/         # Grammaire, vocabulaire, métrique
-ressources-audiovisuelles/   # Captations, cours, conférences
-journal-de-lecture.md        # Fil chronologique du projet
+README_PROPOSITION.md        # Manifeste : thèse centrale + 4 piliers validés
+METHODE_ANALYSE.md          # Processus dialectique (sparring intellectuel)
+journal-de-lecture.md       # Chronologie des révisions interprétatives
+biblio-rodin.md            # Arsenal bibliographique (Vernant, Romilly)
+
+texte-grec/                # Texte source grec (Mazon 1920)
+traductions/               # Traductions comparées
+commentaire-ligne-a-ligne/ # Commentaire progressif
+notes-linguistiques/       # Vocabulaire, grammaire, métrique
 ```
 
 ### Contexte historique
@@ -49,13 +53,16 @@ Singularité de cette pièce :
 - **Rythme** : 2-3 heures par jour, quasi quotidiennement
 - **Lieu** : Bureau personnel (rituel spatial fixe)
 
-### Critères de réussite
+### État actuel (2 juin 2026)
 
-Dans un an, ce projet sera considéré comme réussi si :
+**Analyse complétée** :
+- ✅ Parodos (v. 1-154) : Angoisse viscérale, richesse mortifère
+- ✅ Rêve d'Atossa (v. 176-214) : Théophanie domestique, joug brisé
+- ✅ Discours de Darius (v. 681-842) : Hubris comme amnésie filiale
+- ✅ Kommos final (v. 908-1077) : Xerxès ne comprend jamais
+- ✅ Absence d'Atossa : Triple impossibilité structurelle
 
-1. **Structure dramatique maîtrisée** : Capacité d'expliquer pourquoi chaque partie de la pièce est nécessaire (prologue, parodos, épisodes, stasima, exodos)
-2. **Révisions documentées** : Au moins trois passages où la première lecture était fausse, avec explication du changement d'interprétation
-3. **Thèse défendable** : Une interprétation originale de la pièce, avec au moins deux objections sérieuses identifiées
+**Prochaines étapes** : Analyse des vers 21-154 (fin du Parodos)
 
 ### Contribuer
 
