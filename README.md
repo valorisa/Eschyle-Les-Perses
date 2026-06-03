@@ -1,57 +1,97 @@
 # Les Perses — Eschyle (472 av. J.-C.)
 
-## Projet
+## Ce repo n'est pas un monument
 
-Ce dépôt documente une recherche philologique sur *Les Perses* d'Eschyle, la plus ancienne tragédie historique conservée.
+Ce dépôt n'est pas la gloire d'une interprétation finale. C'est l'archive d'une confrontation avec le texte grec de l'édition Mazon (1920).
 
-**Thèse centrale** : *Les Perses* n'est pas une pédagogie de l'Hubris. **C'est la démonstration qu'une victime d'une faute cosmique est structurellement incapable d'en comprendre la nature, même après avoir tout perdu.** Xerxès ne comprend jamais. Le savoir (Darius/Atossa) et l'expérience (Xerxès) ne se rencontrent jamais.
+Ce n'est pas un catalogue de fiches de lecture. C'est un chantier d'exégèse actif.
 
-📖 **Voir [README_PROPOSITION.md](README_PROPOSITION.md)** — Manifeste complet avec les 4 piliers de l'analyse
+---
+
+## Thèse Centrale
+
+*Les Perses* n'est pas une fable morale sur les dangers de l'orgueil, ni un chant de triomphe athénien.
+
+**C'est la démonstration qu'une victime d'une faute cosmique est structurellement incapable d'en comprendre la nature, même après avoir tout perdu.**
+
+La tragédie se joue dans l'écart vertigineux entre :
+- Ce que le héros pleure (ses navires, ses hommes)
+- Ce que le spectateur comprend (la violation de l'ordre du monde)
+
+**Xerxès est un mort-vivant qui ignore la raison de sa propre chute.**
+
+📖 **Voir [SYNTHESE_GLOBALE.md](SYNTHESE_GLOBALE.md)** — Document de travail provisoire (3 juin 2026), à réviser après lecture des épisodes intermédiaires
 
 🛠️ **Voir [METHODE_ANALYSE.md](METHODE_ANALYSE.md)** — Méthode dialectique questions/réponses qui a construit cette thèse
 
 ---
 
-## Découvertes majeures
+## Les Quatre Piliers Textuels (Ce que nous avons tranché)
 
-### Les processions d'Atè (v. 58 = v. 88)
+### A. Le Parodos (v. 1-154) : L'angoisse structurelle
 
-Le Catalogue des peuples (v. 21-90) n'est pas un simple remplissage épique. C'est une **séduction d'Atè en temps réel** :
-- v. 58 : *δειναῖς πομπαῖς* (processions terribles du Roi)
-- v. 88 : *λευκαῖς πομπαῖσι* (processions blanches d'Atè)
+**✓ Juste** : L'angoisse du Chœur n'est pas rationnelle, elle est viscérale (*βαύζει* - le cœur aboie, v. 12).
 
-Le même mot *πομπαῖς* apparaît aux deux endroits. Le catalogue entier est la procession par laquelle Atè séduit Xerxès avant même qu'il ne décide. **La faute n'est pas consciente au moment où elle se commet.**
+**⚡ Découverte** : Le Catalogue des peuples (v. 21-90) n'est pas un inventaire stratégique, c'est une **incantation magique** pour conjurer le vide démographique laissé par l'armée.
 
-### Le joug cosmologique (v. 49 → v. 70)
+**✓ Juste** : La richesse (*πολύχρυσος*) n'est pas un décor contrastant avec l'absence ; elle est le **carburant** de l'Hubris. C'est l'or qui a donné à Xerxès l'illusion qu'il pouvait enchaîner la nature.
 
-- v. 49 : *ζυγὸν ἀμφιβαλεῖν δούλιον Ἑλλάδι* (joug esclavagiste sur la Grèce)
-- v. 70 : *ζυγὸν ἀμφιθαλὼν αὐχένι πόντου* (joug sur le cou de la mer)
+**⚡ Les processions d'Atè** (v. 58 = v. 88) : *πομπαῖς* (processions) apparaît deux fois. Le catalogue est la procession par laquelle Atè séduit Xerxès avant même qu'il ne décide. La faute n'est pas consciente au moment où elle se commet.
 
-Le même mot *ζυγόν* (joug) est appliqué d'abord à une terre (transgression métaphorique acceptable), puis à la mer (hybris cosmologique absolue). La mer reçoit une anatomie corporelle (*αὐχήν* = cou). Le glissement sémantique normalise la transgression : le v. 49 prépare le v. 70.
+**⚡ Le joug cosmologique** (v. 49 → v. 70) : *ζυγόν* (joug) appliqué d'abord à la Grèce (métaphore acceptable), puis à la mer (hybris cosmologique). Le glissement sémantique normalise la transgression.
 
-### Xerxès "porte l'action du dieu" (v. 83)
+### B. Le Rêve d'Atossa (v. 176-214) : Théophanie domestique
 
-*Θεοῦ δὲ πρᾶξιν φερέποντα* (v. 83) — Xerxès **porte** l'action du dieu, mais ne la crée pas. Il est à la fois actif (il mène l'armée) et passif (il suit une action divine). Ce n'est pas une fatalité *moira* (destin fixé), c'est une **fatalité relationnelle** : Xerxès est pris dans un engrenage cosmologique qu'il ne voit pas.
+**✓ Juste** : Le rêve est une théophanie domestique. Les trois niveaux (cosmique, politique, filial) y sont isomorphes. Le théologique est primaire, le familial en est le vecteur dans l'*oikos*, non la cause.
+
+### C. Le Fantôme de Darius (v. 745-750) : L'Hubris comme amnésie filiale
+
+**✓ Juste** : La faute de Xerxès n'est pas une rébellion œdipienne. C'est une **amnésie filiale** : *κοὐ μνημονεύει τὰς ἐμὰς ἐπιστολάς* (v. 783) — "il ne se souvient pas de mes instructions".
+
+**⚡ Vocabulaire** : Darius utilise *πέδαις σφυρηλάτοις* (entraves forgées, v. 747) et nomme explicitement *Ποσειδῶνος κρατήσειν* (dominer Poséidon, v. 750). *ζυγόν* (Chœur, v. 70) et *πέδαι* (Darius, v. 747) sont deux métaphores complémentaires du même asservissement cosmique : agricole vs. carcéral.
+
+### D. Le Kommos Final (v. 975-1077) et l'absence d'Atossa : L'aveuglement structurel
+
+**✓ Juste** : Xerxès ne comprend *jamais*. Il externalise la faute sur un *daimôn* jaloux. Il pleure la perte matérielle, mais ne formule jamais sa transgression. Le *pathei mathos* (apprendre par la souffrance) échoue.
+
+**✓ Juste** : L'évacuation d'Atossa avant le retour de Xerxès est une triple impossibilité (matérielle, maternelle, épistémique) qui garantit que le savoir (Darius/Atossa) et l'expérience (Xerxès) ne se rencontreront jamais.
 
 ---
 
-### Objectifs
+## Preuves Lexicales
 
-1. Analyse textuelle du grec (édition Mazon 1920)
-2. Commentaire philologique progressif
-3. Hiérarchie des grilles de lecture : Théologique > Politique > Psychanalytique
-4. Documentation du processus (Option A : tracer les hésitations, pas réécrire rétrospectivement)
+**Inventaire exhaustif de ζυγ- dans toute la pièce :**
+- v. 49 : ζυγὸν δούλιον Ἑλλάδι (projet politique)
+- v. 70 : ζυγὸν αὐχένι πόντου (**unique occurrence cosmique**)
+- v. 196 : ζυγὸν θραύει (rêve prémonitoire)
+- v. 542 : ἀρτιζυγίαν (métaphore matrimoniale)
+- v. 594 : ἐλύθη ζυγὸν ἀλκᾶς (libération des Grecs)
 
-### Pourquoi GitHub ?
+**Distribution :** 4 chez le Chœur (lyrique), 1 chez Atossa (onirique), **0** chez Messager/Darius/Xerxès.
 
+**Documentation complète :** voir `notes-linguistiques/inventaire-zygon.md`
+
+---
+
+## Objectifs et Méthode
+
+**Pacte méthodologique :**
+1. Documenter le **processus** (Option A), pas le résultat poli *a posteriori*
+2. Hiérarchie des grilles de lecture : Théologique > Politique > Psychanalytique
+3. Traquer les mots-générateurs : ζυγόν, βαύζει, πολύχρυσος, τò δεινόν
+4. Refuser les traductions aseptisantes
+
+**Pourquoi GitHub ?**
 - **Versionnage** : Les hypothèses évoluent, sont testées, révisées
 - **Transparence** : Le journal documente impasses, révisions, blocages
 - **Rigueur** : Chaque affirmation est vérifiable (numéro de vers, citation grecque)
 
-### Structure du dépôt
+---
+
+## Structure du Dépôt
 
 ```
-README_PROPOSITION.md      # Manifeste : thèse centrale + 4 piliers validés
+SYNTHESE_GLOBALE.md        # Document de travail provisoire (3 juin 2026)
 METHODE_ANALYSE.md         # Processus dialectique (sparring intellectuel)
 journal-de-lecture.md      # Chronologie des révisions interprétatives
 biblio-rodin.md            # Arsenal bibliographique (Vernant, Romilly)
@@ -60,42 +100,76 @@ texte-grec/                # Texte source grec (Mazon 1920)
 traductions/               # Traductions comparées
 commentaire-ligne-a-ligne/ # Commentaire progressif
 notes-linguistiques/       # Vocabulaire, grammaire, métrique
+sources/                   # PDFs convertis (exclus du contexte)
 ```
 
-### Contexte historique
+---
 
-*Les Perses* a été représentée en 472 av. J.-C., huit ans après la bataille de Salamis (480 av. J.-C.) où Eschyle a lui-même combattu. 
+## État Actuel (3 juin 2026)
 
-Singularité de cette pièce :
-- Seule tragédie grecque conservée basée sur un événement historique contemporain (et non mythologique)
+**Analyse complétée :**
+
+| Section | Statut | Fichier |
+|---------|--------|---------|
+| Parodos (v. 1-90) | ✅ Analysé | `commentaire-ligne-a-ligne/01-parodos.md` |
+| Atossa-Chœur (v. 230-248) | ✅ Analysé | `commentaire-ligne-a-ligne/03-atossa-choeur-questions.md` |
+| Messager (v. 249-514) | ✅ Analysé | `commentaire-ligne-a-ligne/04-messager-recit-salamine.md` |
+| Darius (v. 745-750) | ✅ Analysé | `commentaire-ligne-a-ligne/05-darius-condamnation-pont.md` |
+| Inventaire ζυγ- | ✅ Complet | `notes-linguistiques/inventaire-zygon.md` |
+
+**Angles morts identifiés :**
+- v. 91-154 (fin du Parodos, entrée d'Atossa)
+- v. 515-622 (2e stasimon, libations)
+- v. 843-907 (retour d'Atossa, sortie avant kommos)
+
+**Programme (11 mois restants) :**
+1. Lecture linéaire des épisodes intermédiaires → chercher contre-exemples
+2. Confrontation critique : Romilly, Vernant & Vidal-Naquet, Broadhead, Hall
+3. Analyse métrique : dochmiaques, anapestes comme vecteurs de sens
+4. Mises en scène : annoter 2+ captations (INA 1961 Barrault, contemporaine)
+
+---
+
+## Contexte Historique
+
+*Les Perses* a été représentée en 472 av. J.-C., huit ans après la bataille de Salamis (480 av. J.-C.) où Eschyle a lui-même combattu.
+
+Singularité :
+- Seule tragédie grecque conservée basée sur un événement historique contemporain (non mythologique)
 - Seule où l'ennemi (les Perses) est le protagoniste
 - Écrite du point de vue des vaincus, dans le palais de Suse
-- Exploration de l'*hubris* (démesure) et de la *nemesis* (châtiment divin)
 
-### Durée et rythme
+---
+
+## Durée et Rythme
 
 - **Durée** : 1 an (juin 2026 — juin 2027)
 - **Rythme** : 2-3 heures par jour, quasi quotidiennement
 - **Lieu** : Bureau personnel (rituel spatial fixe)
 
-### État actuel (2 juin 2026)
+---
 
-**Analyse complétée** :
+## Critères de Succès (dans 12 mois)
 
-| Section | Statut | Fichier |
-|---------|--------|---------|
-| Prologue (v. 1-20) | ✅ Analysé | `commentaire-ligne-a-ligne/01-parodos.md` |
-| Catalogue des peuples (v. 21-90) | ✅ Analysé | `commentaire-ligne-a-ligne/01-parodos.md` |
-| Fin du Parodos (v. 91-154) | 🔲 À faire | — |
-| Rêve d'Atossa (v. 176-214) | ✅ Analysé | `hypotheses-interpretation/` |
-| Récit du Messager (v. 249-514) | ⚠️ Partiel | Notes éparses |
-| Discours de Darius (v. 681-842) | ✅ Analysé | `hypotheses-interpretation/` |
-| Kommos final (v. 908-1077) | ✅ Analysé | `hypotheses-interpretation/` |
-| Absence d'Atossa (structure) | ✅ Analysé | `hypotheses-interpretation/` |
+Ce projet aura réussi si :
+- Au moins 3 passages m'ont forcé à **réviser** une interprétation initiale (critère de résistance du texte)
+- La thèse centrale a été **attaquée** par au moins un helléniste extérieur et y a résisté
+- Le journal de lecture contient des entrées datées qui montrent des **révisions**, pas une progression linéaire illusoire
 
-**État réel** : La thèse centrale est solidement étayée par l'analyse des passages clés (Catalogue, Rêve, Darius, Kommos). Mais la lecture linéaire intégrale reste à faire pour les épisodes intermédiaires (v. 91-154, 215-248, 515-680, 843-907).
+Il aura échoué si :
+- La thèse n'a pas bougé d'un pouce depuis le 3 juin 2026 (signe que le texte n'a pas été vraiment travaillé)
+- Le repo est un monument statique plutôt qu'un chantier vivant
+- Les épisodes intermédiaires restent non lus
 
-**Prochaine étape** : Vérification croisée des vers 745-746 (Darius condamne explicitement le pont de bateaux) pour confirmer que le vocabulaire du joug cosmologique est repris dans le discours du fantôme.
+---
+
+## Le Mot de la Fin (et le Premier Test de Ma Persévérance)
+
+Si dans 3 mois ce repo n'a pas bougé, c'est que cette session n'était qu'une performance intellectuelle de plus, une masturbation de l'esprit sans conséquence sur le réel.
+
+**Souviens-toi de mes instructions.**
+
+---
 
 ### Contribuer
 
@@ -107,4 +181,5 @@ Ce projet est sous licence Creative Commons BY-SA 4.0. Voir [LICENSE](LICENSE).
 
 ---
 
-*Projet commencé le 1er juin 2026.*
+*Projet commencé le 1er juin 2026.*  
+*README fusionné le 3 juin 2026.*

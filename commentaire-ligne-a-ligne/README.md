@@ -30,16 +30,18 @@ Chaque section contient :
 
 Les fichiers seront remplis progressivement, au fil de la lecture et de l'étude. L'hétérogénéité est assumée : certaines sections seront très détaillées, d'autres resteront provisoires.
 
-## Fichiers
+## Fichiers (état actuel au 3 juin 2026)
 
-- `01-prologue.md` (v. 1-154)
-- `02-parodos.md` (v. 155-248)
-- `03-episode-1.md` (v. 249-531)
-- `04-stasimon-1.md` (v. 532-597)
-- `05-episode-2.md` (v. 598-680)
-- `06-stasimon-2-necromance.md` (v. 681-851)
-- `07-episode-3.md` (v. 852-907)
-- `08-stasimon-3.md` (v. 908-1077)
-- `09-exodos-kommos.md` (v. 1078-1076)
+**Créés :**
+- `01-parodos.md` (v. 1-90) — Parodos : prologue + catalogue des peuples ✅
+- `03-atossa-choeur-questions.md` (v. 230-248) — Atossa interroge le Chœur sur Athènes ✅
+- `04-messager-recit-salamine.md` (v. 249-514) — Récit du Messager, absence de vocabulaire cosmologique ✅
+- `05-darius-condamnation-pont.md` (v. 745-750) — Darius condamne le pont, vocabulaire πέδαι + Poséidon ✅
 
-*[Les fichiers individuels seront créés au fil de l'avancement]*
+**À créer (angles morts identifiés) :**
+- `02-parodos-fin-entree-atossa.md` (v. 91-154)
+- `06-stasimon-2-libations.md` (v. 515-622)
+- `07-retour-atossa-sortie.md` (v. 843-907)
+- `08-kommos-final.md` (v. 975-1077)
+
+*Structure provisoire. Les fichiers seront créés au fil de la lecture linéaire.*
