@@ -4,7 +4,7 @@
 
 Ce dépôt n'est pas la gloire d'une interprétation finale. C'est l'archive d'une confrontation avec le texte grec de l'édition Mazon (1920).
 
-Ce n'est pas un catalogue de fiches de lecture. C'est un chantier d'exégèse actif.
+Pas plus que ce n'est pas un catalogue de fiches de lecture. C'est un chantier d'exégèse actif.
 
 ---
 
