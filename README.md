@@ -112,13 +112,13 @@ sources/                   # PDFs convertis (exclus du contexte)
 | Section | Statut | Fichier |
 |---------|--------|---------|
 | Parodos (v. 1-90) | ✅ Analysé | `commentaire-ligne-a-ligne/01-parodos.md` |
+| Fin Parodos (v. 91-154) | ✅ Analysé | `commentaire-ligne-a-ligne/02-fin-parodos.md` |
 | Atossa-Chœur (v. 230-248) | ✅ Analysé | `commentaire-ligne-a-ligne/03-atossa-choeur-questions.md` |
 | Messager (v. 249-514) | ✅ Analysé | `commentaire-ligne-a-ligne/04-messager-recit-salamine.md` |
 | Darius (v. 745-750) | ✅ Analysé | `commentaire-ligne-a-ligne/05-darius-condamnation-pont.md` |
 | Inventaire ζυγ- | ✅ Complet | `notes-linguistiques/inventaire-zygon.md` |
 
 **Angles morts identifiés :**
-- v. 91-154 (fin du Parodos, entrée d'Atossa)
 - v. 515-622 (2e stasimon, libations)
 - v. 843-907 (retour d'Atossa, sortie avant kommos)
 
