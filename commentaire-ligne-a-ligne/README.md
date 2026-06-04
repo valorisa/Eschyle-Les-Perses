@@ -68,4 +68,4 @@ Les analyses ont fait émerger plusieurs constats lexicaux vérifiables :
 
 ---
 
-*Dernière mise à jour : 4 juin 2026*
+*Dernière mise à jour : le 4 juin 2026*
