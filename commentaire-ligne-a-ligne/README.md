@@ -65,3 +65,7 @@ Les analyses ont fait émerger plusieurs constats lexicaux vérifiables :
 - Chaque fichier est daté (date de première rédaction + date de dernière mise à jour)
 - Les entrées sont immutables : on ne réécrit pas une analyse antérieure, on la corrige par une nouvelle entrée dans `journal-de-lecture.md`
 - Les niveaux de confiance sont explicites : 🟢 établi / 🟡 à confirmer / 🔴 spéculatif
+
+---
+
+*Dernière mise à jour : 4 juin 2026*
