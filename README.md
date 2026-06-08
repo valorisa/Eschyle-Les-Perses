@@ -90,7 +90,7 @@ La tragédie se joue dans l'écart vertigineux entre :
 
 ## Structure du Dépôt
 
-```
+```text
 SYNTHESE_GLOBALE.md        # Document de travail provisoire (3 juin 2026)
 METHODE_ANALYSE.md         # Processus dialectique (sparring intellectuel)
 journal-de-lecture.md      # Chronologie des révisions interprétatives
@@ -105,7 +105,7 @@ sources/                   # PDFs convertis (exclus du contexte)
 
 ---
 
-## État Actuel (3 juin 2026)
+## État Actuel (8 juin 2026)
 
 **Analyse complétée :**
 
@@ -113,20 +113,22 @@ sources/                   # PDFs convertis (exclus du contexte)
 |---------|--------|---------|
 | Parodos (v. 1-90) | ✅ Analysé | `commentaire-ligne-a-ligne/01-parodos.md` |
 | Fin Parodos (v. 91-154) | ✅ Analysé | `commentaire-ligne-a-ligne/02-fin-parodos.md` |
+| Rêve d’Atossa (v. 176-214) | ✅ Analysé | `commentaire-ligne-a-ligne/07-reve-atossa.md` |
 | Atossa-Chœur (v. 230-248) | ✅ Analysé | `commentaire-ligne-a-ligne/03-atossa-choeur-questions.md` |
 | Messager (v. 249-514) | ✅ Analysé | `commentaire-ligne-a-ligne/04-messager-recit-salamine.md` |
+| 1er Stasimon (v. 515-622) | ✅ Analysé | `commentaire-ligne-a-ligne/06-premier-stasimon.md` |
+| Nécromancie (v. 623-680) | ✅ Analysé | `commentaire-ligne-a-ligne/08-necromancie.md` |
 | Darius (v. 745-750) | ✅ Analysé | `commentaire-ligne-a-ligne/05-darius-condamnation-pont.md` |
-| Inventaire ζυγ- | ✅ Complet | `notes-linguistiques/inventaire-zygon.md` |
+| Retour d’Atossa (v. 843-851) | ✅ Analysé | `commentaire-ligne-a-ligne/09-retour-atossa.md` |
+| 2e Stasimon (v. 852-907) | ✅ Analysé | `commentaire-ligne-a-ligne/08-stasimon-3.md` |
+| Kommos final (v. 908-1077) | ✅ Analysé | `commentaire-ligne-a-ligne/09-exodos-kommos.md` |
 
-**Angles morts identifiés :**
-- v. 515-622 (2e stasimon, libations)
-- v. 843-907 (retour d'Atossa, sortie avant kommos)
+**Angles morts : aucun.** La lecture linéaire et structurelle est désormais complète et verrouillée.
 
-**Programme (11 mois restants) :**
-1. Lecture linéaire des épisodes intermédiaires → chercher contre-exemples
-2. Confrontation critique : Romilly, Vernant & Vidal-Naquet, Broadhead, Hall
-3. Analyse métrique : dochmiaques, anapestes comme vecteurs de sens
-4. Mises en scène : annoter 2+ captations (INA 1961 Barrault, contemporaine)
+**Prochaines étapes** : 
+1. Confrontation avec la critique secondaire (Romilly, Vernant & Vidal-Naquet).
+2. Analyse métrique des parties chorales.
+3. Étude des captations théâtrales (Barrault, etc.).
 
 ---
 
@@ -143,7 +145,7 @@ Singularité :
 
 ## Durée et Rythme
 
-- **Durée** : 1 an (juin 2026 — juin 2027)
+- **Durée** : 1 seamine (du 03 juin 2026 au 08 juin 2027)
 - **Rythme** : 2-3 heures par jour, quasi quotidiennement
 - **Lieu** : Bureau personnel (rituel spatial fixe)
 
